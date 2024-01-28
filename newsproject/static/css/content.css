@@ -1,0 +1,18 @@
+body{
+background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLvWxsWwkNsBuEFQE4k8RAokfxf2_2jDwqcQ&usqp=CAU);
+
+background-repeat: no-repeat;
+background-size: cover;
+
+
+}
+h1{
+    color: blue;
+    text-align: center;
+    font-size: 50px;
+}
+
+ul{
+    color: yellow;
+    font-size: 25px;
+}
